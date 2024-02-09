@@ -8,5 +8,8 @@ public class hell {
 		System.out.println("hello world i am back");
 		System.out.println(" sammy");
 	}
+	void display() {
+		System.out.println(" sammy");
+	}
 
 }
